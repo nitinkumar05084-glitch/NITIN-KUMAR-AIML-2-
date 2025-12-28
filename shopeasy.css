@@ -1,0 +1,39 @@
+.alpha{
+    height:500px;
+    width: 1100px;
+    border: 2px black solid;
+    margin-left:70px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+}
+.one{
+    text-align: center;
+    display: block;
+    background-color: black;
+    color: white;
+}
+.beta{
+    height:380px;
+    width: 400px;
+    border: 2px black solid;
+    margin-left: 350px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+.two{
+    width: 200px;
+    margin-left: 100px;
+    border: 2px black solid;
+    margin-top: 10px;
+}
+.three{
+    color:green;
+}
+.four{
+    text-align: center;
+    margin-left: 140px;
+    background-color: brown;
+
+}
