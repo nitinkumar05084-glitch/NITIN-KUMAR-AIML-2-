@@ -1,0 +1,49 @@
+.alpha{
+    height: 400px;
+    width: 1000px;
+    border: 3px black solid;
+    margin-left: 120px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+}
+.one{
+    display: block;
+    text-align: center;
+    background-color: grey;
+    color: black;
+}
+.two{
+    display: inline;
+    background-color: lightblue;
+
+}
+.three{
+    display: inline;
+    background-color: lightblue;
+}
+.four{
+    display: inline;
+    background-color: lightblue;
+
+}
+.five{
+    display: inline;
+    background-color: lightblue;
+}
+.six{
+    display: block;
+    background-color: green;
+}
+.seven{
+    display: block;
+    background-color: green;
+}
+.eight{
+    display: block;
+    background-color: green;
+}
+.nine{
+    display: block;
+    background-color: green;
+}
