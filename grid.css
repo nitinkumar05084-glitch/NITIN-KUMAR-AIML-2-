@@ -1,0 +1,26 @@
+.alpha{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 100px 100px;
+    gap: 10px;
+    
+
+}
+.box{
+    background-color: lightblue;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px;
+    margin: 10px;
+}
+.a{
+    text-align: center;
+    color: black;
+}
+.alpha{
+    height: 220px;
+    width: 400px;
+    border: 2px solid black;
+    margin-left: 420px;
+}
