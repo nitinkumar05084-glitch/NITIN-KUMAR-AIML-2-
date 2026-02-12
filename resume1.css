@@ -1,0 +1,18 @@
+.alpha{
+    text-align: center;
+    border-bottom: 2px solid black;
+}
+.beta{
+    border-bottom: 1px solid black;
+}
+.gama{
+    border-bottom: 1px solid black;
+}
+.delta{
+    border-bottom: 1px solid black;
+}
+.photo{
+    align-items:left ;
+    height: 90px;
+    width: 80px;
+}
